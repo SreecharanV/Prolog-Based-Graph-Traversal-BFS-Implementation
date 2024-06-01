@@ -43,9 +43,11 @@ This project implements graph traversal algorithms using Prolog, specifically fo
    swipl
 5. **Load the File**:
    Once inside the Prolog interpreter, load the main.pl file using the following command:
+   ```sh
     ?- [main].
-6. **Run the Test**:
+7. **Run the Test**:
    After loading the file, you can run the predefined test cases by typing:
+   ```sh
    ?- test.
 
 ## Explanation
